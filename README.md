@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React.js, Ruby on rails and Python<br>- 🌱 I’m currently learning javascript<br>- 👯 I’m looking to collaborate with junior developers<br>- 🤔 I’m looking for help with finding a job<br>- 💬 Ask me about my life on coding<br>- 📫 How to reach me: muriungigift@gmail.com<br>- 😄 Pronouns: She<br>⚡ Fun fact: I can code in multiple programming languages while enjoying a strong cup of coffee.
+🔭 I code in React.js, Ruby on rails and Python<br>- 🌱 I’m re-learning javascript<br>- 👯 I’m looking to collaborate with junior developers<br>- 💬 Ask me about my life on coding<br>- 📫 How to reach me: muriungigift@gmail.com<br>- 😄 Pronouns: She<br>⚡ Fun fact: I can code in multiple programming languages.
 
 
 ## 🌐 Socials:
